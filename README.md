@@ -1,6 +1,6 @@
 Challenge 1 Horiseon
 
-[link to site](git@github.com:nhaninasser/Challenge-one-Horiseon.git);
+[link to site](git@github.com:nhaninasser/Challenge-one-Horiseon.git) 
 
 ![screenshot](./images/Screenshot-Horiseon.png)
 
