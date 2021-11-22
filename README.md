@@ -2,7 +2,7 @@
 
 [Link to site](https://github.com/nhaninasser/Challenge-one-Horiseon.git) 
 
-![Screenshot](.02-Challenge/images/Screenshot-Horiseon.png)
+![Screenshot](https://user-images.githubusercontent.com/93559764/142791378-e862878e-3294-4dc2-a9c0-dabe2ccf9bca.png)
 
 The challenge was to refactor a webpage to make it accesible and to improve search engine optimization.
 It's important to follow the Scout Rule when working with an existing codebase: Always leave the code a little cleaner than you found it. 
