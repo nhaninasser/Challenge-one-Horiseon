@@ -1,6 +1,7 @@
 Challenge 1 Horiseon
 
-[link to site](git@github.com:nhaninasser/Challenge-one-Horiseon.git)
+[link to site](git@github.com:nhaninasser/Challenge-one-Horiseon.git);
+
 ![screenshot](./images/Screenshot-Horiseon.png)
 
 The challenge was to refactor a webpage to make it accesible and to improve search engine optimization.
