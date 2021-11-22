@@ -1,6 +1,6 @@
 Challenge 1 Horiseon
 
-[link to site](github.com:nhaninasser/Challenge-one-Horiseon.git) 
+[link to site](https://github.com/nhaninasser/Challenge-one-Horiseon.git) 
 
 ![screenshot](./images/Screenshot-Horiseon.png)
 
